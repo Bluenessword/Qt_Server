@@ -1,2 +1,3 @@
-# Qt_Server
+# Qt_socket
 server Demo
+client Demo
