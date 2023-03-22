@@ -1,3 +1,3 @@
 # Qt_socket
-server Demo
+server Demo\n
 client Demo
